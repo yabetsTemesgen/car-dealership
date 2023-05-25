@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "backend": "json-server --watch db.json"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.6.7",
+    "@types/node": "^18",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "json-server": "^0.17.3",
+    "vuex": "^4.0.2"
+  }
+}

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
+body {
+    /* @apply bg-gradient-to-b from-blue-900 via-slate-600 to-slate-100 */
+    @apply bg-gray-900
+} 
+@layer components{
+    .btn {
+       /* @apply bg-[#12b488] text-white px-3 py-2 rounded-md text-sm  */
+       @apply px-3 py-2 text-white items-center rounded-md bg-gradient-to-r from-slate-800 to-blue-700 cursor-pointer
+    }
+    .card {
+        @apply p-3 rounded-md bg-gray-200 shadow-md h-full;
+    }
+}

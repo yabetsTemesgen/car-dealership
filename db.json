@@ -1,0 +1,318 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "Name": "volkswagen id6",
+      "number_of_seat": 8,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/volksid6.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "Nissan ALmera",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/nissan-almera.jpg"
+    },
+    {
+      "id": 3,
+      "Name": "Nisssan Qashqai",
+      "number_of_seat": "4",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/qashqai.jpg"
+    },
+    {
+      "id": 4,
+      "Name": "Suzuki Dzire",
+      "number_of_seat": "4",
+      "type": "automobile",
+      "fuel_type": "benezen",
+      "image": "http://localhost:3000/images/Suzuki-dzire.jpg"
+    },
+    {
+      "id": 5,
+      "Name": "Toyota chr",
+      "number_of_seat": 6,
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/Toyotachr.jpg"
+    },
+    {
+      "id": 6,
+      "Name": "Toyota rush",
+      "number_of_seat": "8",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/toyotarush.jpg"
+    },
+    {
+      "id": 7,
+      "Name": "volkswagen id3",
+      "number_of_seat": "8",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/volksid3.png"
+    },
+    {
+      "id": 8,
+      "Name": "volkswagen id4",
+      "number_of_seat": "8",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/volksid4.jpg"
+    },
+    {
+      "id": 9,
+      "Name": "Mitsubishi Attrage 2022",
+      "number_of_seat": "4",
+      "type": "automobile",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/attrage.jpg"
+    },
+    {
+      "id": 10,
+      "Name": "Chery Tiggo-4",
+      "number_of_seat": "8",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/chery-tiggo-4.jpg"
+    },
+    {
+      "id": 11,
+      "Name": "Chevrolet Captiva",
+      "number_of_seat": "8",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/chevy-captiva.jpg"
+    },
+    {
+      "id": 12,
+      "Name": "Ford Ranger",
+      "number_of_seat": "8",
+      "type": "Truck",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/ford-ranger.jpg"
+    },
+    {
+      "id": 13,
+      "Name": "Ford F150",
+      "number_of_seat": "4",
+      "type": "Truck",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/fordf150.jpg"
+    },
+    {
+      "id": 14,
+      "Name": "Hyundai grand i10",
+      "number_of_seat": "4",
+      "type": "automobile",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/grandi10 hyndai.png"
+    },
+    {
+      "id": 15,
+      "Name": "Toyota Adventure Hilux",
+      "number_of_seat": "5",
+      "type": "Truck",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/hilux-adventure.jpg"
+    },
+    {
+      "id": 16,
+      "Name": "Toyota Invincible Hilux",
+      "number_of_seat": "5",
+      "type": "Truck",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/hilux-invincible.jpg"
+    },
+    {
+      "id": 17,
+      "Name": "Toyota Hilux 2023",
+      "number_of_seat": "5",
+      "type": "Truck",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/hilux2023.jpg"
+    },
+    {
+      "id": 18,
+      "Name": "Infinity SUV",
+      "number_of_seat": "5",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/infinity suv.jpg"
+    },
+    {
+      "id": 19,
+      "Name": "Jetour",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/jetour.jpg"
+    },
+    {
+      "id": 20,
+      "Name": "Kia Sorento",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/Kia sorento.jpg"
+    },
+    {
+      "id": 21,
+      "Name": "Peugeot 5008",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "Electric",
+      "image": "http://localhost:3000/images/Peugeot 5008.jpg"
+    },
+    {
+      "id": 22,
+      "Name": "Suzuki Ertiga",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/suzuki-ertiga.jpg"
+    },
+    {
+      "id": 23,
+      "Name": "Suzuki Swift",
+      "number_of_seat": "4",
+      "type": "automobile",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/suzuki-swift.jpg"
+    },
+    {
+      "id": 24,
+      "Name": "Toyota Fortuner",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/Toyota-fortuner.jpg"
+    },
+    {
+      "id": 25,
+      "Name": "Toyota Tacoma",
+      "number_of_seat": "5",
+      "type": "Truck",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/toyota-tacoma.jpg"
+    },
+    {
+      "id": 26,
+      "Name": "Toyota Rav4",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/toyotarav4.jpg"
+    },
+    {
+      "id": 27,
+      "Name": "Hyundai Tucson 2019",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/tucson2019.jpg"
+    },
+    {
+      "id": 28,
+      "Name": "Hyundai Tucson 2020",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/tucson2020.jpeg"
+    },
+    {
+      "id": 29,
+      "Name": "Hyundai Tucson 2021",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/tucson2021.jpeg"
+    },
+    {
+      "id": 30,
+      "Name": "Hyundai Tucson 2022",
+      "number_of_seat": "6",
+      "type": "SUV",
+      "fuel_type": "benezene",
+      "image": "http://localhost:3000/images/tucson2022.jpg"
+    }
+  ],
+  "offers": [
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "suzuki dzire",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "9k",
+      "id": 1
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "suzuki dzire",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "9k",
+      "id": 2
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "volkswagen id6",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "9k",
+      "id": 3
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "volkswagen id6",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "8k",
+      "id": 4
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "volkswagen id6",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "8k",
+      "id": 5
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "volkswagen id6",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "8k",
+      "id": 6
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "nissan",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "12k",
+      "id": 7
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "nissan",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "12k",
+      "id": 8
+    },
+    {
+      "fullName": "Yabets Temesgen",
+      "carName": "nissan",
+      "phone": "+251923370652",
+      "email": "yabtemesgen@gmail.com",
+      "prev_offer": "12k",
+      "id": 9
+    }
+  ]
+}
